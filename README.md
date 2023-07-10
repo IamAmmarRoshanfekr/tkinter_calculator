@@ -1,2 +1,3 @@
 # tkinter_calculator
-Calculator with python and Tkinter lib
+Simple calculator with Tkinter ttk
+
