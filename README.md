@@ -1,4 +1,4 @@
-### tkinter_calculator
+# tkinter_calculator
 **Simple calculator with Tkinter ttk**
 
- # Convert py file into EXE file
+ ## Convert py file into EXE file
