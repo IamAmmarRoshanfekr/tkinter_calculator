@@ -2,11 +2,11 @@
  ## Convert py file to EXE file
 to Convert py to exe File you must Follow next steps.  
 
-Install Pyinstaller
+Install Pyinstaller:
 ```
 pip install pyinstaller
 ```
-Then.
+Then:
 ```
 pyinstaller -onefile -w FILENAME
 ```
