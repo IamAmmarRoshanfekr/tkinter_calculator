@@ -1,5 +1,4 @@
-# tkinter_calculator
-**Simple calculator with Tkinter ttk**
+# Simple Calculator With Tkinter
  ## Convert py file into EXE file
 to Convert py to exe File you must Follow next steps.  
 
