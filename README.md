@@ -1,6 +1,6 @@
 # Simple Calculator With Tkinter
  ## Convert py file to EXE file
-to Convert py to exe File you must Follow next steps.  
+To Convert py to exe File you must Follow next steps.  
 
 Install Pyinstaller:
 ```
